@@ -1,13 +1,6 @@
 # 📚 Ciência da Computação
 Repositório dedicado ao armazenamento e organização de todas as atividades, projetos e materiais do curso de **Ciência da Computação**.
 
-## 📋 Sobre
-Este repositório contém todo o material desenvolvido durante o curso, incluindo códigos, exercícios, projetos, anotações e trabalhos acadêmicos.
-
-- **Período:** [Semestre/Ano de início] - [Previsão de conclusão]
-- **Instituição:** [Nome da instituição]
-- **Curso:** [Nome completo do curso]
-
 ## 🗂️ Estrutura do Repositório
 ```
 📦 ead.computer.science/
