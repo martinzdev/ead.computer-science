@@ -3,7 +3,7 @@ Repositório dedicado ao armazenamento e organização de todas as atividades, p
 
 ## 🗂️ Estrutura do Repositório
 ```
-📦 ead.computer.science/
+📦 edu.computer.science/
 │
 ├── 🗒️ README.md                  # Informações gerais
 ├── 📁 @semestre-01/              # Primeiro semestre do curso
